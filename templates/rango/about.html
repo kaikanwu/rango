@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+{% load staticfiles %}
+
+<html>
+    <head>
+        <title>
+            ABOUT
+        </title>
+    </head>
+
+    <body>
+        <h1>
+            Rango ABOUT PAGE!!!
+        </h1>
+        <div>
+        <br/>
+            <strong>
+                {{ aboutmessage }}
+            </strong><br/>
+        </div>
+        <div>
+            <a href="/rango/about/">About</a>><br/>
+            <img src = "{%  static "images/about.jpg" %}"
+                 alt = "About the Rango" />
+            <img src = "{{ MEDIA_URL }}cat.jpg" />
+        </div>
+    </body>
+</html>
