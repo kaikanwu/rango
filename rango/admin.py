@@ -3,7 +3,7 @@ from rango.models import Category, Page
 
 
 class CategoryAdmin(admin.ModelAdmin):
-    prepopulated_fields = {'slug':('name', )}
+    prepopulated_fields = {'slug': ('name', )}
 
 
 class PageAdmin(admin.ModelAdmin):
