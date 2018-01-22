@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712f7257-729d-479f-9422-2437d260da1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rango/admin.py" afterPath="$PROJECT_DIR$/rango/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rango/models.py" afterPath="$PROJECT_DIR$/rango/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rango/urls.py" afterPath="$PROJECT_DIR$/rango/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/rango/index.html" afterPath="$PROJECT_DIR$/templates/rango/index.html" />
-    </list>
+    <list default="true" id="712f7257-729d-479f-9422-2437d260da1f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,17 +192,6 @@
             <path>
               <item name="tango_with_django_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="tango_with_django_project" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tango_with_django_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tango_with_django_project" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tango_with_django_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tango_with_django_project" type="462c0819:PsiDirectoryNode" />
               <item name="tango_with_django_project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -286,9 +268,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
