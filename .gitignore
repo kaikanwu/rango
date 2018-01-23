@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 
+=======
+db.sqlite3
+__pycache__/
+*.pyc
+>>>>>>> 9bb960dbdf764b5d969206327e31dbb8f49d99b0
