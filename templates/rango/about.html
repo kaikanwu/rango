@@ -11,7 +11,7 @@
 
     <body>
         <h1>
-            Rango ABOUT PAGE!!!
+            Rango says here is the about page
         </h1>
         <div>
         <br/>
@@ -20,10 +20,13 @@
             </strong><br/>
         </div>
         <div>
-            <a href="/rango/about/">About</a>><br/>
-            <img src = "{%  static "images/about.jpg" %}"
-                 alt = "About the Rango" />
-            <img src = "{{ MEDIA_URL }}cat.jpg" />
+            <a href="/rango/">Index</a><br/>
+
+{#            <a href="/rango/about/">About</a>><br/>#}
+            <img src="{% static "images/about.jpg" %}"
+                 alt = "Picture of Rango" />
+
+            <img src="{{ MEDIA_URL}}cat.jpg" alt="Picture of cat" />
         </div>
     </body>
 </html>
