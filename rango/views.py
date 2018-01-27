@@ -14,8 +14,10 @@ def add_category(request):
 
         # have we been provided with a valid form?
         if form.is_valid():
+            # save the new category to the database
             form.save(commit=True)
 
+            # return to hte index page to show the new category
             return index(request)
         else:
             print(form.errors)
