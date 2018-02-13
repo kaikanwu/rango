@@ -7,8 +7,7 @@ from rango import views
 #     url(r'^category/(?P<category_name_slug>[\w\-]+)/$',
 #         views.show_category, name='show_category'),
 # ]
-
-app_name = 'rango'
+# app_name = 'rango'
 
 urlpatterns = [url(r'^$', views.index, name='index'),
                url(r'^about/$', views.about, name='about'),
