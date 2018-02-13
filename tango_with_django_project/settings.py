@@ -18,7 +18,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 STATIC_DIR = os.path.join(BASE_DIR, 'static')
 MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 STATICFILES_DIRS = [STATIC_DIR, ]
-
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 # MEDIAFILES_DIRS = [MEDIA_DIR, ]
 
 
